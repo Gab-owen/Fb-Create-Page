@@ -5,4 +5,5 @@
 rm -rf fb-Create-Page
 git clone https://github.com/Gab-owen/Fb-Create-Page
 cd fb-Create-Page
+pip install -r requirements.txt
 python run.py
